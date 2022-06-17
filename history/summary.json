@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/arsrobotics.org",
     "slug": "main-site",
     "status": "down",
-    "uptime": "6.33%",
-    "uptimeDay": "6.33%",
-    "uptimeWeek": "6.33%",
-    "uptimeMonth": "6.33%",
-    "uptimeYear": "6.33%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-17": 62,
+      "2022-06-16": 343
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/wp.arsrobotics.org",
     "slug": "blog",
     "status": "down",
-    "uptime": "3.89%",
-    "uptimeDay": "3.89%",
-    "uptimeWeek": "3.89%",
-    "uptimeMonth": "3.89%",
-    "uptimeYear": "3.89%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-17": 62,
+      "2022-06-16": 343
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/bucket.arsrobotics.org",
     "slug": "bucket",
     "status": "down",
-    "uptime": "7.44%",
-    "uptimeDay": "7.44%",
-    "uptimeWeek": "7.44%",
-    "uptimeMonth": "7.44%",
-    "uptimeYear": "7.44%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-17": 62,
+      "2022-06-16": 343
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/status.arsrobotics.org",
     "slug": "status-page",
     "status": "down",
-    "uptime": "4.69%",
-    "uptimeDay": "4.69%",
-    "uptimeWeek": "4.69%",
-    "uptimeMonth": "4.69%",
-    "uptimeYear": "4.69%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 76,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-17": 62,
+      "2022-06-16": 343
     }
   }
 ]
